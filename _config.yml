@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Docsy Jekyll
+title: BLC Science
 email: your-email@domain.com
 author: Dinosaur Avocado
 description: > # this means to ignore newlines until "baseurl:"
@@ -26,11 +26,6 @@ baseurl: "/BLCScience" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
-
-# Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
 
 # Optional
 twitter: vsoch
