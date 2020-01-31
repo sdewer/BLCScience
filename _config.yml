@@ -27,6 +27,11 @@ baseurl: "/BLCScience" # the subpath of your site, e.g. /blog
 # This is mostly for testing
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
+# Social (First three Required)
+repo: "https://github.com/sdewer/BLCScience"
+github_user: "sdewer"
+github_repo: "BLCScience"
+
 # Optional
 twitter: vsoch
 linkedin: vsochat
